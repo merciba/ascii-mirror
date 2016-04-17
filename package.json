@@ -1,0 +1,16 @@
+{
+  "name": "ascii-mirror",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-pixels": "^1.1.0",
+    "chalk": "^1.1.3",
+    "jpeg-js": "^0.1.1"
+  }
+}
